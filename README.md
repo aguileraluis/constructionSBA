@@ -1,6 +1,8 @@
 # Garcia Construction
 
 A construction website for a construction company in Boonville, North Carolina. 
+You can find the github here : https://github.com/aguileraluis/constructionSBA
+The live version is here as well : https://constructionsba.onrender.com/
 
 ## Informative and getting people in touch with them
 
